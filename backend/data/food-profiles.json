@@ -1,0 +1,1231 @@
+{
+  "ghee karam dosa": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savory"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "paneer dosa": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savory"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "veg noodles": {
+    "category": "meal",
+    "texture": [
+      "unknown"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "unknown"
+    ],
+    "filling": "unknown",
+    "confidence": "low"
+  },
+  "paneer noodles": {
+    "category": "meal",
+    "texture": [
+      "unknown"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "unknown"
+    ],
+    "filling": "unknown",
+    "confidence": "low"
+  },
+  "paneer chilly noodles": {
+    "category": "meal",
+    "texture": [
+      "unknown"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "unknown"
+    ],
+    "filling": "unknown",
+    "confidence": "low"
+  },
+  "mushroom noodles": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savory"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "manchurian noodles": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savory",
+      "spicy"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "veg momos": {
+    "category": "snack",
+    "texture": [
+      "soft"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "savory"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "fry momo": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savory",
+      "spicy"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "kurkure momo": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savory"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "afgani momo": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "spicy",
+      "savoury"
+    ],
+    "filling": "filling",
+    "confidence": "medium"
+  },
+  "tandoori momo": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "spicy",
+      "savoury"
+    ],
+    "filling": "filling",
+    "confidence": "medium"
+  },
+  "jhol momo": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "spicy",
+      "savoury"
+    ],
+    "filling": "filling",
+    "confidence": "medium"
+  },
+  "red pasta": {
+    "category": "meal",
+    "texture": [
+      "unknown"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "unknown"
+    ],
+    "filling": "unknown",
+    "confidence": "low"
+  },
+  "white pasta": {
+    "category": "meal",
+    "texture": [
+      "unknown"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "unknown"
+    ],
+    "filling": "unknown",
+    "confidence": "low"
+  },
+  "mushroom pasta": {
+    "category": "other",
+    "texture": [
+      "soft"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "low"
+  },
+  "fries": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savoury",
+      "spicy"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "honey chilli potato": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "sweet",
+      "spicy"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "cheese fries": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savoury",
+      "spicy"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "peri peri fries": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savoury",
+      "spicy"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "tandoori chaap + naan": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "afgani chaap+naan": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "malai chaap+naan": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "masala chaap+naan": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "daal poori ghugni": {
+    "category": "snack",
+    "texture": [
+      "unknown"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "unknown"
+    ],
+    "filling": "unknown",
+    "confidence": "low"
+  },
+  "daal chawal": {
+    "category": "meal",
+    "texture": [
+      "soft"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "aalo roll": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "panner roll": {
+    "category": "meal",
+    "texture": [
+      "soft"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "elaichi chai": {
+    "category": "beverage",
+    "texture": [
+      "liquid"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "tangy"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "adrak chai": {
+    "category": "beverage",
+    "texture": [
+      "liquid"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "spicy"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "gur chai": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "spicy"
+    ],
+    "filling": "unknown",
+    "confidence": "high"
+  },
+  "lemon chai": {
+    "category": "beverage",
+    "texture": [
+      "unknown"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "tangy"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "bun maska": {
+    "category": "snack",
+    "texture": [
+      "soft"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "kulhad chai": {
+    "category": "beverage",
+    "texture": [
+      "unknown"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "hot coffee": {
+    "category": "beverage",
+    "texture": [
+      "unknown"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "pepsi": {
+    "category": "beverage",
+    "texture": [
+      "liquid"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "sour"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "coke": {
+    "category": "beverage",
+    "texture": [
+      "liquid"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "sour"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "diet coke": {
+    "category": "beverage",
+    "texture": [
+      "liquid"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "sour"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "coke zero": {
+    "category": "beverage",
+    "texture": [
+      "liquid"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "sour"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "thumps up": {
+    "category": "beverage",
+    "texture": [
+      "liquid"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "sour"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "fanta": {
+    "category": "beverage",
+    "texture": [
+      "unknown"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "unknown"
+    ],
+    "filling": "unknown",
+    "confidence": "low"
+  },
+  "sprite": {
+    "category": "beverage",
+    "texture": [
+      "unknown"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "unknown"
+    ],
+    "filling": "unknown",
+    "confidence": "low"
+  },
+  "maaza": {
+    "category": "beverage",
+    "texture": [
+      "unknown"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "unknown"
+    ],
+    "filling": "unknown",
+    "confidence": "low"
+  },
+  "slice": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "sour"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "pani puri": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "spicy",
+      "sour"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "dahi papri": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "papri chaat": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury",
+      "spicy"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "dahi bhalla": {
+    "category": "snack",
+    "texture": [
+      "soft"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "vada pav": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury",
+      "spicy"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "chole bhature": {
+    "category": "meal",
+    "texture": [
+      "soft"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "filling",
+    "confidence": "medium"
+  },
+  "chole puri": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "litti chokha": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "samosa": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "chai": {
+    "category": "beverage",
+    "texture": [
+      "liquid"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "sweet"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "samosa chaat": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "plain uttapam": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "onion uttapam": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "veg uttapam": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "ghee podi onion uttapam": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "spicy",
+      "savoury"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "panner uttapam": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "ghee podi paneer uttapam": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "paper dosa": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "butter dosa": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "ghee plain dosa": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "low",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "ghee podi plain dosa": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "ghee podi masala dosa": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savory",
+      "spicy"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "butter masala dosa": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savory"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "ghee podi paneer dosa": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savory",
+      "spicy"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "plain idli": {
+    "category": "snack",
+    "texture": [
+      "soft"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "sweet",
+      "savory"
+    ],
+    "filling": "unknown",
+    "confidence": "low"
+  },
+  "thatte idli": {
+    "category": "snack",
+    "texture": [
+      "soft"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "sweet",
+      "savory"
+    ],
+    "filling": "unknown",
+    "confidence": "low"
+  },
+  "ghee podi idli": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "idli sambar": {
+    "category": "meal",
+    "texture": [
+      "soft"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "tea": {
+    "category": "beverage",
+    "texture": [
+      "liquid"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "sweet"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "filter coffee": {
+    "category": "beverage",
+    "texture": [
+      "liquid"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "lassi": {
+    "category": "beverage",
+    "texture": [
+      "liquid"
+    ],
+    "preparation": "unknown",
+    "oilLevel": "unknown",
+    "taste": [
+      "tangy"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "schezzwan noodles": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "mashroom noodles": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "green chilli noodles": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "spicy",
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "hakka noodles": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "veg kurkure momos": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "peri peri momos": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "spicy",
+      "savory"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "malai momos": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savory"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "tandoori momos": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savory"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "veg spring roll": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savory"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "salted fries": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savory"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "poha": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savory"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "aloo patties": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savory"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "paneer patties": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savory"
+    ],
+    "filling": "regular",
+    "confidence": "medium"
+  },
+  "masala dosa": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "plain dosa": {
+    "category": "snack",
+    "texture": [
+      "crispy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "medium",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "ghee masala dosa": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savoury",
+      "spicy"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "onion dosa": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  },
+  "karam dosa": {
+    "category": "snack",
+    "texture": [
+      "crunchy"
+    ],
+    "preparation": "fried",
+    "oilLevel": "high",
+    "taste": [
+      "savoury"
+    ],
+    "filling": "unknown",
+    "confidence": "medium"
+  }
+}
